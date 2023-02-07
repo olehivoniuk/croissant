@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood
+}
+p{
+    color: blueviolet;
+}
+h1, p {
+    text-align: center;
+}
+img{
+    max-width: 600px;
+    border-radius: 5px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+a{
+    text-align: center;
+    display: block;
+
+}
